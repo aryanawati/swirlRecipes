@@ -1,0 +1,35 @@
+.title, h1 {
+    color: #987554;
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    background-color: #472b17;
+}
+
+.borders {
+    background-color: white;
+    display: flex;
+    height: 100vh;
+    width: 10px;
+    position: fixed;
+}
+
+.footer {
+    background-color: #664229;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    position: fixed;
+    width: 100vw;
+    bottom: 0;
+}
+
+.footer, h1 {
+    color: #987554;
+}
+
+.footer, a {
+    color: #987554;
+}

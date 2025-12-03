@@ -11,6 +11,7 @@
     align-items: center;
 }
 
+
 .borders {
     background-color:#987554;
     display: flex;
@@ -78,4 +79,9 @@
 .itemtext {
     color: #664229;
     margin: 10px;
+}
+
+.home {
+    position: sticky left;
+    
 }

@@ -1,3 +1,7 @@
+body {
+    font-family: "Work Sans", sans-serif;
+}
+
 .title h1 {
     color: #987554;
 }
@@ -34,7 +38,6 @@
 .footer {
     background-color: #664229;
     color: white;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 10px;
     position: fixed;
     width: 100vw;
